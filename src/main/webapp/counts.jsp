@@ -55,7 +55,7 @@
 <div class="statistics-container">
     <div class="statistics-box">
         <h3>Total Employees</h3>
-        <p id="anotherStatCount">${ecount}</p>
+	<p id="anotherStatCount">${ecount}</p><%-- Employee counts from employee table --%>
     </div>
     
     <div class="statistics-box">
