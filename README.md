@@ -1,6 +1,6 @@
 **Project Title: Hotel Management System**
 
-The project is developed using HTML,CSS for frontend, SpringBoot as middleware and MySQL for backend<br/><br/>
+The project is developed using HTML,CSS for frontend, SpringBoot as middleware and MySQL for backend.<br/><br/>
 **Project Flow:**<br/>
 **step1**:<br/>The application starts running from the file which contains the **SpringBootApplication** annotation. This file acts as the entry point for the Spring Boot application.<br/>
 **step2**:<br/>Upon startup, Spring Boot scans for entities in the models package and creates the required tables in the database based on these entities.<br/>
@@ -40,7 +40,7 @@ The project contains three modules i.e Admin,Customer,Employee
 ->Provides Modularity and Scalability<br/>
 ->Opiniated Framework<br/>
 ->It allowed us to develop the project in MicroServices <br/>
-->Providing security with the use of different layers such as Repository and Service layers
+->Providing security with the use of different layers such as Repository and Service layers.
 
 
  
