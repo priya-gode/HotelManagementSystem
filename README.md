@@ -34,7 +34,7 @@ The project contains three modules i.e Admin,Customer,Employee
 ->Register and login<br/>
 ->Book Rooms<br/>
 ->view all the available services<br/>
-->view there booking history<br/>
+->view history of the booking<br/>
 
 **SpringBoot Advantages:**<br/>
 ->Provides Modularity and Scalability<br/>
